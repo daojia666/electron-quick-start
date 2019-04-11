@@ -1,3 +1,4 @@
+#为什么不把此工程的index.html和static替换成您的web在直接用打包成exe呢
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
